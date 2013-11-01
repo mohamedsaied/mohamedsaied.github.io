@@ -363,7 +363,6 @@ div#navigation ul {
 div.back.name{
   background-color: #9d0034;
   color: #fff;
-  padding-top: 5px;
 }
 div.back.name a {
   color: #fff;
@@ -371,12 +370,10 @@ div.back.name a {
 div.back.contact{
   background-color: #009d07;
   color: #fff;
-  padding-top: 5px;
 }
 div.back.security, div.back.ac{
   background-color: #000;
   color: #fff;
-  padding-top: 5px;
 }
 div.back.ht{
   background-color: #00888c;
@@ -385,12 +382,10 @@ div.back.ht{
 div.back.hob{
   background-color: #ba009e;
   color: #fff;
-  padding-top: 5px;
 }
 div.back.dwn {
   background-color: #008aff;
   color:#fff;
-  padding-top: 5px;
 }
 div.back {
   background-color: #fff;
@@ -402,25 +397,20 @@ div.back a {
 div.back.fl {
   background-color: #d2283b;
   color:#fff;
-  padding-top: 5px;
 }
 div.back.dw {
   background-color: #8ca226;
   color:#fff;
-  padding-top: 5px;
 }
 div.back.ae {
   background-color: #646785;
   color:#fff;
-  padding-top: 5px;
 }
 div.back.ps {
   background-color: #0b78e5;
   color:#fff;
-  padding-top: 5px;
 }
 div.back.max {
   background-color: #69898a;
   color:#fff;
-  padding-top: 5px;
 }
