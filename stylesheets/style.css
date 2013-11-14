@@ -415,6 +415,8 @@ div.back.max {
   color:#fff;
 }
 div#resize {
+  width:75px;
+  height:75px;
   background-image: url("../images/resize.png");
   background-position: right bottom; 
   background-repeat: no-repeat;
